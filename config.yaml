@@ -38,12 +38,6 @@ monitors:
     method: GET
     expectStatus: 200
 
-  - id: uptime
-    name: uptim
-    url: 'https://uptime.cfss.us.kg'
-    method: GET
-    expectStatus: 200
-
   - id: pieces-api
     name: pieces-api
     url: 'https://mk99z-pieces-os.hf.space'

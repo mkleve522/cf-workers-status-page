@@ -43,7 +43,7 @@ monitors:
     url: 'https://mk99z-pieces-os.hf.space'
     method: GET
     expectStatus: 200
-    linkable: true
+  
 
     
 
